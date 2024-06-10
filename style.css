@@ -3,4 +3,9 @@ ul {
     justify-content: center;
     gap: 50px;
     list-style: none;
+    padding: 50px;
+    text-align: center;
+    background-color: rgb(150, 50, 243);
+    color: white;
+    font-size: medium;
 }
