@@ -13,6 +13,6 @@ ul {
 
 img {
     margin-left: auto;
-    max-height: 500;
-    max-width: 400;
+    max-height: 400px;
+    max-width: 300px;
 }
