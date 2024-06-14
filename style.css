@@ -12,7 +12,6 @@ ul {
 }
 
 img {
-    max-height: 400px;
-    max-width: 300px;
-    align-content: right;
+   display: block;
+   margin-left: auto;
 }
