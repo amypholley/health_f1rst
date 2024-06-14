@@ -22,6 +22,9 @@ p {
 
 img {
    display: block;
+   margin-top: auto;
+   margin-bottom: auto;
+   margin-right: auto;
    margin-left: auto;
    position: right;
    justify-content: right;
