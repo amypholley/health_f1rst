@@ -15,8 +15,8 @@ p {
     font-size: large;
     color: blueviolet;
     text-align: left;
-    padding-right: 100px;
-    margin-right: 50px;
+    padding-right: auto;
+    margin-right: auto;
     opacity: .9;
 }
 
