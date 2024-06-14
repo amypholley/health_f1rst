@@ -10,3 +10,9 @@ ul {
     font-size: medium;
     font-display: white;
 }
+
+img {
+    margin-left: auto;
+    max-height: 500;
+    max-width: 400;
+}
