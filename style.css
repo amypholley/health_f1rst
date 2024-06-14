@@ -15,4 +15,5 @@ img {
    display: block;
    margin-left: auto;
    position: right;
+   justify-content: right;
 }
