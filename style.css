@@ -22,10 +22,7 @@ p {
 
 img {
    display: block;
-   margin-top: auto;
-   margin-bottom: auto;
-   margin-right: auto;
-   margin-left: 85%;
+   margin-left: auto;
    position: right;
    justify-content: right;
 }
