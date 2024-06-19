@@ -26,3 +26,16 @@ img {
    position: right;
    justify-content: right;
 }
+
+footer {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    list-style: none;
+    padding: 50px;
+    text-align: center;
+    background-color: rgb(119, 92, 83);
+    color: white;
+    font-size: medium;
+    font-display: white;
+}
