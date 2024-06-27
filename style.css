@@ -10,9 +10,24 @@ ul {
     font-size: medium;
     font-display: white;
 }
+
+div.a {
+    text-align: left;
+    padding: 25px;
+    padding-right: 350px;
+}
+
+div.b {
+    display: block;
+    margin-left: auto;
+    position: right;
+    padding-left: 25px;
+    padding-right: 25px;
+    justify-content: right;
+}
 #one {
-    background-color: rgb(108, 13, 151);
-    font-size: large;
+    background-color: rgb(133, 63, 165);
+    font-size: medium;
     color: white;
     text-align: left;
     padding-right: auto;
@@ -20,12 +35,7 @@ ul {
     opacity: .9;
 }
 
-img {
-   display: block;
-   margin-left: auto;
-   position: right;
-   justify-content: right;
-}
+
 
 footer {
     display: flex;
