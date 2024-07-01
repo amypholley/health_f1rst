@@ -43,6 +43,16 @@ i {
 }
 
 
+#one {
+    background-color: rgb(133, 63, 165);
+    font-size: medium;
+    color: white;
+    text-align: left;
+    padding: 25px;
+    padding-right: auto;
+    margin-right: auto;
+    opacity: .9;
+}
 
 div.a {
     text-align: left;
@@ -64,21 +74,13 @@ div.b {
     justify-content: right;
 }
 
-#one {
-    background-color: rgb(133, 63, 165);
-    font-size: medium;
-    color: white;
-    text-align: left;
-    padding: 25px;
-    padding-right: auto;
-    margin-right: auto;
-    opacity: .9;
-}
+
 
 div.footer {
     grid-area: footer;
     margin-top: 300px;
 }
+
 footer {
     grid-area: footer;
     display: flex;
